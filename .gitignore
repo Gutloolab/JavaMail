@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+bin/
+target/
+
+# IDE specific folders (Eclipse, IntelliJ, VS Code)
+.idea/
+.settings/
+.vscode/
+.classpath
+.project
+
+# OS hidden files
+.DS_Store
+Thumbs.db
